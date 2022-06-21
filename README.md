@@ -1,7 +1,7 @@
 # Simple and smart pagination builder
-# This libary is part of sprint framework packages
+### This libary is part of sprint framework packages
 
-**Version 1.0.0 **
+**Version 1.0.0**
 
 Hey! This is a simple and small single class PHP pagination that handles the pagination based on the http request. All properties and methods are statics.
 The codebase is very small and very easy to understand. So you can use it as a boilerplate for a more complex pagination.
@@ -16,7 +16,7 @@ include 'src\SPagination.php';
 ```
 
 ## Installation using Composer
-Just run `composer require spagination/sprint-framework-pagination-package`
+Just run `composer require inaciowassir/spagination`
 Than add the autoloader to your project like this:
 
 ```php
@@ -65,7 +65,7 @@ use sprint\spagination\SPagination;
 
 ## Custom pagination style
 > The SPagination uses bootstrap as default style, but you can create your own custom style by defining the classes to the elements.
-*Please refer to the bootstrap documentation for more details, in case you want to use bootstrap for styling your pagination* [Bootstrap Page](https://getbootstrap.com ["Bootstrap Page"])
+*Please refer to the bootstrap documentation for more details, in case you want to use bootstrap for styling your pagination* [](https://getbootstrap.com)
 
 ```php
 
