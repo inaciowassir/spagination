@@ -16,7 +16,7 @@ include 'src\SPagination.php';
 ```
 
 ## Installation using Composer
-Just run `composer require inaciowassir/spagination`
+Just run `composer require spagination/sprint-framework-pagination-package`
 Than add the autoloader to your project like this:
 
 ```php
