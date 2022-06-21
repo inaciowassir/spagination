@@ -59,11 +59,14 @@ use sprint\spagination\SPagination;
 			var_dump($results);
 		echo "</pre>";
 // Build the pagination
-		echo $spagination::page();```
+		echo $spagination::page();
+
+```
 
 ## Custom pagination style
 > The SPagination uses bootstrap as default style, but you can create your own custom style by defining the classes to the elements.
 *Please refer to the bootstrap documentation for more details, in case you want to use bootstrap for styling your pagination* [Bootstrap Page](https://getbootstrap.com ["Bootstrap Page"])
+
 ```php
 
 //This will add custom class to anchor element
