@@ -10,9 +10,7 @@
             "homepage": "https://spagination.nolibary.com/"
         }
     ],
-    "require": {
-        "php": ">=5.5.0"
-    },
+    "require": {},
     "autoload": {
       "psr-4": {
           "sprint\\spagination\\": "src/"
