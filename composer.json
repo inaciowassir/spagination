@@ -1,5 +1,5 @@
 {
-    "name": "inaciowassir/spagination",
+    "name": "spagination/sprint-framework-pagination-package",
     "description": "This is a simple and small single class PHP pagination that handles the pagination based on the http request.",
     "type": "library",
     "license": "MIT",
@@ -19,3 +19,4 @@
       }
   }
 }
+
