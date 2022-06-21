@@ -1,0 +1,22 @@
+{
+    "name": "spagination/sprint-framework-pagination-package",
+    "description": "This is a simple and small single class PHP pagination that handles the pagination based on the http request.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Inacio Agostinho Uassire",
+            "email": "inaciowassir@gmail.com",
+            "homepage": "https://spagination.nolibary.com/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+      "psr-4": {
+          "sprint\\spagination\\": "src/"
+      }
+  }
+}

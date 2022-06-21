@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+._*
+
+# Composer files
+/vendor/
+
+# local test environment
+/test/
+release.sh
