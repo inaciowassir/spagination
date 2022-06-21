@@ -11,7 +11,9 @@ The codebase is very small and very easy to understand. So you can use it as a b
 ## Installation including the file
 ```php
 // Require the class
-include 'src\SPagination.php';```
+include 'src\SPagination.php';
+
+```
 
 ## Installation using Composer
 Just run `composer require spagination/sprint-framework-pagination-package`
