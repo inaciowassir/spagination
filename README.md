@@ -92,8 +92,7 @@ $spagination::$classes["ul"] = array(
 ```
 
 ## License
-This project is licensed under the MIT License. See LICENSE for further information.
+This project is licensed under the MIT License. See [License File](https://github.com/inaciowassir/spagination/blob/main/LICENSE) for further information.
 
 ## Contributors
 - Inacio Agostinho Uassire <inaciowassir@gmail.com>
-
